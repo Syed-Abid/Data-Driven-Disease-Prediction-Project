@@ -31,7 +31,7 @@ I'm not just passionate about data science; I'm also dedicated to making the wor
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
 - [Twitter](https://twitter.com/SyedAbi70523793)
-- [Email](mailto:youremail@example.com)
+- [Email](abidhassanjaffri31@gmail.com)
 
 ## Contribute
 
