@@ -1,6 +1,8 @@
 # Data-Driven Disease Project 🩺
 
-![Heart Disease](https://images.vexels.com/media/users/3/136170/isolated/lists/1a0fc726567fe21282676126358b795d-heart-disease-logo.png)
+<div align="center">
+  <img src="https://images.vexels.com/media/users/3/136170/isolated/lists/1a0fc726567fe21282676126358b795d-heart-disease-logo.png" alt="Heart Disease Image">
+</div>
 
 Welcome to my Data-Driven Disease Project! Dive into the exciting world of data and healthcare, where I've harnessed the power of machine learning to develop a heart disease diagnosing model. 💔➡️❤️
 
