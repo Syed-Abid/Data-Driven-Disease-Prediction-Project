@@ -30,7 +30,7 @@ Here's a glimpse of what you'll find in this project:
 I'm not just passionate about data science; I'm also dedicated to making the world a healthier place. Let's connect, collaborate, and make a difference together:
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
-- [Twitter](https://twitter.com/yourhandle)
+- [Twitter](https://twitter.com/SyedAbi70523793)
 - [Email](mailto:youremail@example.com)
 
 ## Contribute
