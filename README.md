@@ -16,7 +16,7 @@ In this repository, I present my journey into the realm of predictive healthcare
 
 Here's a glimpse of what you'll find in this project:
 
-- `data/`: The heart of the project, containing the heart disease dataset.
+- `data/`: The heart of the project, containing the heart disease dataset.(The dataset is preset in the repository)
 - `notebooks/`: Jupyter notebooks where I've conducted data analysis, preprocessing, and model training.
 - `models/`: This is where the magic happens. It houses the heart disease diagnosing model ready to predict and save lives.
 - `app/`: A bonus feature! Explore a user-friendly web application to check heart disease risk.
