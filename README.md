@@ -37,7 +37,7 @@ I'm not just passionate about data science; I'm also dedicated to making the wor
 
 ## Contributers
 
-So, I have made this project with a friend of mine who lives in West Africa. Her name is **Favour Oyibo** and she is a **Data Scientist**. 
+So, I have made this project with a friend of mine who lives in **Nigeria**. Her name is **Favour Oyibo** and she is a **Data Scientist**. 
 You can check out her LinkedIn to see her work and contributions. Link is given below:
 
 - [Link](https://www.linkedin.com/in/favour-oyibo-59ab36191/)
