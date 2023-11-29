@@ -35,9 +35,9 @@ I'm not just passionate about data science; I'm also dedicated to making the wor
 - [Twitter](https://twitter.com/SyedAbi70523793)
 - [Email](abidhassanjaffri31@gmail.com)
 
-## Contribute
+## Contributers
 
-Have ideas for enhancing the heart disease model, want to expand the dataset, or create a more user-friendly application? Feel free to contribute! Open issues and submit pull requests. Let's save more lives and make this project even more impactful.
+So, I have made this project with a friend of mine who lives in West Africa. Her name is **Favour Oyibo** and she is a **Data Scientist**. 
 
 ## Keep the Heart Beating
 
